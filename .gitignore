@@ -1,0 +1,12 @@
+build/
+.idea/
+
+*.egg-info/
+*.egg-info/*
+
+*.pyc
+*.pyo
+*.pyd
+
+.venv/
+venv/
