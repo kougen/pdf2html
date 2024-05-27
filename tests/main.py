@@ -18,3 +18,4 @@ if __name__ == "__main__":
         pdf_path = sys.argv[1]
         output_path = sys.argv[2]
         main(pdf_path, output_path)
+        
